@@ -1,0 +1,2 @@
+*tao controller
+php artisan make:controller Controllername

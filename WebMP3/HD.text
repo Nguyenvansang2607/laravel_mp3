@@ -1,0 +1,6 @@
+* cài đặt Laravel Generator
+ 1- thêm 
+ "require-dev": {
+    "way/generators": "~2.0"
+}
+ vào composor.json.

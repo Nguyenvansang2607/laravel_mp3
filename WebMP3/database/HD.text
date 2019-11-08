@@ -1,0 +1,4 @@
+-chạy tất cả các
+    + migrate php artisan migrate
+-tạo seed:
+    + php artisan db:seed
