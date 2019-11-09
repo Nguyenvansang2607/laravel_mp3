@@ -1,0 +1,5 @@
+-tạo midration 
+    +php artisan make:migration
+    +............migration :thực thi toàn bộ m
+- tạo seed
+     php artisan db:seed

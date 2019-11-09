@@ -1,0 +1,4 @@
+-vendor là nơi chứa các thành phần trong websile
+ -dùng @extends('layouts/master') để kế thừa layout của toàn bộ 
+ trang.
+-@section('header') tạo một biến header có bắt đầu và kết thúc stop.
